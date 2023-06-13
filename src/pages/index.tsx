@@ -27,7 +27,7 @@ export default function Home() {
           <div className="absolute bg-jsconf-yellow w-full h-full -z-10  blur-sm">
             <Particles id={"home"} />
           </div>
-          <div className="flex flex-col lg:flex-row overflow-scroll">
+          <div className="flex flex-col lg:flex-row">
             <div className="flex text-left h-screen justify-center flex-col flex-auto p-8 text-jsconf-black lg:basis-1/3 lg:shrink-0">
               <div className="flex justify-self-start pt-8 pb-6 ">
                 <Logo color={jsconfTheme.colors.jsconfBlack} />
