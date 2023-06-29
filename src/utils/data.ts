@@ -1,5 +1,5 @@
 const title = "JSConf Chile | Conferencia de Javascript en Santiago Chile"
-const description = "JSConf Chile | Revie los momentos de JSConf 2023, revisa las fotos y la página. Mantente atento a la próxima edición. Conoce más del equipo organizador."
+const description = "JSConf Chile | Revive los momentos de JSConf 2023, revisa las fotos y la página. Mantente atento a la próxima edición. Conoce más del equipo organizador."
 
 export const seo = {
   title,
